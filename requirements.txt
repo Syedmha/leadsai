@@ -1,0 +1,8 @@
+python-dotenv
+packaging
+googlesearch-python 
+pycountry
+fastapi
+uvicorn
+groq
+phidata
