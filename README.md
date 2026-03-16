@@ -1,0 +1,1 @@
+Developed a tool that identifies potential website development clients by extracting businesses (with ≤4-star Google ratings) based on a given service category and location. The tool retrieves business names, websites, and ratings to help users target improvement-ready leads.
